@@ -35,6 +35,8 @@ It then appropriately narrates the various sections of the note. The technology 
 
 This is the Zulip Bot on the Zulip Chat organization Apes-together-strong. This bot integrates our "ConnectAll" app with the Zulip Chat Platform.
 
+![ConnectAll bot](https://github.com/thebhatman/ConnectAll/raw/master/all_inputs/zulipbot.png)
+
 Instructions on using the Zulip Bot
 - Run backend.
 - Run python3 play_zulip.py
