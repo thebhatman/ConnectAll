@@ -13,7 +13,7 @@ class DefineHandler(object):
     looks for messages starting with '@mention-bot'.
     '''
 
-    DEFINITION_API_URL = 'https://owlbot.info/api/v1/dictionary/{}?format=json'
+    DEFINITION_API_URL = 'https://owlbot.info/api/v2/dictionary/{}?format=json'
     REQUEST_ERROR_MESSAGE = 'Could not load definition.'
     EMPTY_WORD_REQUEST_ERROR_MESSAGE = 'Please enter a word to define.'
     PHRASE_ERROR_MESSAGE = 'Definitions for phrases are not available.'
