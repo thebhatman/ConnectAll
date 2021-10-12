@@ -45,7 +45,7 @@ matplotlib==3.1.1
 matrix-client==0.3.2
 more-itertools==7.2.0
 numpy==1.17.3
-opencv-contrib-python==4.1.1.26
+opencv-contrib-python==4.2.0.32
 opencv-python==4.1.1.26
 opt-einsum==3.1.0
 pdf2image==1.9.0
